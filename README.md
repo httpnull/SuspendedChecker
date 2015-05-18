@@ -1,2 +1,2 @@
 # Suspended-Checker
-Twitter accounts suspended checker.
+Twitterアカウントが凍結されているかを自動で確認します。
